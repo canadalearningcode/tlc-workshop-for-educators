@@ -37,9 +37,9 @@ Content: [https://github.com/ladieslearningcode/tlc-workshop-for-educators](http
 		- [Orca Chief](http://teacherslearningcode.herokuapp.com/en/lessons/orca-chief-scratch-lesson)
 			- Note: to access the Orca Chief book on the google play store learners can either view the sample OR login to read the full book
 			- Link to the book [here](https://play.google.com/store/books/details/Robert_Budd_Orca_Chief?id=Z8CECgAAQBAJ)
-				a. Username: orca@ladieslearningcode.com
-				b. Password: teacherslearningcode
-				c. Have teachers copy and modify dialogue found in the story. If they have additional time have them extend the dialogue between the characters. OR have teachers update variables in games.
+				1. Username: orca@ladieslearningcode.com
+				1. Password: teacherslearningcode
+				1. Have teachers copy and modify dialogue found in the story. If they have additional time have them extend the dialogue between the characters. OR have teachers update variables in games.
 - Cover concepts like:
 	- Intro what Scratch is, what it’s used for
 		- Critical thinking
