@@ -34,7 +34,7 @@ Content: [https://github.com/ladieslearningcode/tlc-workshop-for-educators](http
 	- Feel free to choose your own lesson from the site or work through the example in the slides.  Our favourite options include:
 		-  Painting with Gobo
 			- Have teachers modify the different elements of the game
-		- [Wildlife Soundscapes]
+		- Wildlife Soundscapes
 			- Starter Project Here (https://scratch.mit.edu/projects/147165193/)
 			- Video Tutorial Here (https://youtu.be/o_lV16MlcW4)
 				- Follow along the lesson (http://teacherslearningcode.com/en/lessons/wildlife-soundscapes) and have teachers try out extensions and modifications!
