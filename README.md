@@ -6,7 +6,7 @@ Content: [https://github.com/ladieslearningcode/tlc-workshop-for-educators](http
 Contigency Download Folder: https://drive.google.com/file/d/0B0D0LWVu-xHyNmw5Z3NLamlEd0k/view?usp=sharing
 
 ### DO THE ROBOT ICE BREAKER ACTIVITY [15 minutes]
-- Pairs take turns as both Robot and Programmer working through this lesson [http://teacherslearningcode.herokuapp.com/lessons/ruby-robot](http://teacherslearningcode.herokuapp.com/lessons/ruby-robot)
+- Pairs take turns as both Robot and Programmer working through this lesson http://teacherslearningcode.com/en/lessons/ruby-robot](http://teacherslearningcode.com/en/lessons/ruby-robot)
 	- Here’s another video example of a similar activity: [https://www.youtube.com/watch?v=xaW3PAzHxCU](https://www.youtube.com/watch?v=xaW3PAzHxCU)
 - Reflection
 	- Which role was more difficult?
