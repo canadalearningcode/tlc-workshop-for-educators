@@ -87,6 +87,7 @@ Contingency Download Folder: https://drive.google.com/file/d/0B0D0LWVu-xHyNmw5Z3
 
 
 ### SHOW & TELL + DISCUSSION [45 minutes]
+- Have teachers volunteer to share their Superhero Profile or Tourism Website
 - What challenges do you think your students may have
 - Explore vs structure
 - Encourage individual learning styles
