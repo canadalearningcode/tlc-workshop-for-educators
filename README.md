@@ -83,6 +83,7 @@ Contingency Download Folder: https://drive.google.com/file/d/0B0D0LWVu-xHyNmw5Z3
 	- Demonstrate how to embed a video from YouTube (Click "Share" > "Embed" > Copy and paste the iframe code into your HTML file)
 	- Have teachers Remix their own page
 		- Example: https://thimbleprojects.org/teacherslearningcode/353483/
+	- Demonstrate how to edit CSS styles, if time. See http://css.cool for inspiration
 	- Remind everyone to rename their project (top, left) and Publish
 
 
