@@ -44,18 +44,17 @@ Contingency Download Folder: https://drive.google.com/file/d/0B0D0LWVu-xHyNmw5Z3
 			- Video Tutorial Here (https://youtu.be/o_lV16MlcW4)
 				- Follow along the lesson (http://teacherslearningcode.com/en/lessons/wildlife-soundscapes) and have teachers try out extensions and modifications!
 	- Cover concepts like:
-			- Logic and reasoning (like events, loops, conditionals)
-			- Online vs desktop tool (both free!)
- 			- There are no wrong way of doing things; “real” developers will solve the same problem in multiple different ways
+		- Logic and reasoning (like events, loops, conditionals)
+		- Online vs desktop tool (both free!)
+ 		- There are no wrong way of doing things; “real” developers will solve the same problem in multiple different ways
 
 ### SHOW & TELL + DISCUSSION [45 minutes]
 - ½ walk around; other ½ share what they did with them
 	- Repeat for other half
 - Discuss challenges encountered
-	- What challenges do you think your students will have
+	- What challenges do you think your students may have
 	- Explore vs structure
 	- Encourage individual learning styles
-	- What do you anticipate kids would have trouble with?
 - Debugging Activity
 	- Give a few minutes for teachers to try and debug 1-2 projects
 
@@ -88,12 +87,11 @@ Contingency Download Folder: https://drive.google.com/file/d/0B0D0LWVu-xHyNmw5Z3
 
 
 ### SHOW & TELL + DISCUSSION [45 minutes]
-- What challenges do you think your students will have
+- What challenges do you think your students may have
 - Explore vs structure
 - Encourage individual learning styles
-- What do you anticipate kids would have trouble with
 
-### Next Steps & Free ‘Play Time’ [10 minutes]
+### NEXT STEPS [10 minutes]
 - Question to group: What’s YOUR next step?
 	- Give a few ideas
 	- Hand out sticky notes (and pens)
