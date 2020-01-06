@@ -134,7 +134,7 @@
       <script type="text/template">
         #What is Teachers Learning Code?
 
-        <img src="framework/img/teachers-landing-page.png" alt="Teachers Learning Code Landing page">
+        <img src="framework/img/tlcwebsite.png" alt="Teachers Learning Code Landing page">
 
       </script>
     </section>
@@ -277,7 +277,7 @@
 
         Create a new account to experience Scratch Classes from a student's point of view (follow instructions)
 
-        <img src="framework/img/scratch-interface.jpg" alt="Scratch interface page">
+        <img src="framework/img/scratch-editor.png" style="width:70%;" alt="Scratch interface page">
 
 
           ---
@@ -317,7 +317,7 @@
 
         <img src="framework/img/gobo-screenshot.png" alt="Gobo image">
 
-        <em>This lesson is found on teacherslearningcode.com <a href="http://teacherslearningcode.com/en/lessons/pogo">here.</a></em>
+        <em>This lesson is found on teacherslearningcode.com <a href="https://www.canadalearningcode.ca/lessons/paint-with-gobo/">here.</a></em>
 
       </script>
     </section>
@@ -363,7 +363,7 @@
 <!--Slide 22-->
     <section class="slide title" data-markdown >
       <script type="text/template">
-        #Webmaking: Mozilla Thimble &amp; X-Ray Goggles
+        #Webmaking: Glitch
       </script>
     </section>
 
@@ -391,51 +391,66 @@
     </section>
 
 <!--Slide 24-->
-    <section class="slide two-col-list" data-markdown data-toc>
+    <section class="slide centered" data-markdown>
       <script type="text/template">
-        #Mozilla Webmaking Tools
-        * Mozilla X-Ray Goggles
-          <img style="margin-top:20px" src="framework/img/goggles-screenshot.png" alt="X Ray Goggles interface page">
-        * Mozilla Thimble
-          <img style="margin-top:20px" src="framework/img/thimble-screenshot.png" alt="Thimble interface page">
+        #Tags use < and > and /
 
-        ##Let’s all go to: <a href="http://thimble.mozilla.org">thimble.mozilla.org</a>
-
-        <p><strong>username:</strong> teacherslearningcode |
-        <strong>password:</strong> helloworld123 </p>
-
+        ![HTML keys](framework/img/htmlkeys.jpg)
       </script>
     </section>
 
 <!--Slide 25-->
-    <section class="slide" data-markdown >
+    <section class="slide two-col-list" data-markdown>
       <script type="text/template">
-        #Exercise: Remix the Web
-        ##Who's your biggest role model?
+        #Tags always come in pairs
+        * With
+          ```html
+          <p>This is a paragraph.</p>
+          ```
+          ![Happy cat](framework/img/cathappy.png)
+        * Without
+          ```html
+          <p>This is a paragraph.
+          ```
+          ![Sad cat](framework/img/catsad.png)
 
-        * What is their full name?
-        * When were they born?
-        * Who are they/what do they do?
-        * What are 3 interesting facts about them?
-        * Why are they your role model?
-        * Find a photo!
 
-        ```Write your answers down in a Word document```
-
+          <div class="dropdown">
+                    <button class="dropbtn">Attributions</button>
+                    <div class="dropdown-content">
+                      <a href="https://commons.wikimedia.org/wiki/File:PEO-smiling_cat_face_with_open_mouth.svg">Happy cat emoji</a>
+                      <a href="https://commons.wikimedia.org/wiki/File:PEO-crying_cat_face.svg">Sad cat emoji</a>
+                    </div>
       </script>
     </section>
 
 <!--Slide 26-->
-    <section class="slide" data-markdown data-toc>
+    <section class="slide" data-markdown>
       <script type="text/template">
-        #Exercise: Remix the Web
+        #Perfect Pairs
+        Which of these tags is the perfect pair for ```<p>```?
 
-        <a href="http://thimbleprojects.org/HTTP/glccamp/135907/">See the example project</a>
+        1. ```<p>``` <!-- .element: class="delayed" -->
+        1. ```</b>``` <!-- .element: class="delayed" -->
+        1. ```</p>``` <!-- .element: class="delayed" -->
+        1. ```</>``` <!-- .element: class="delayed" -->
 
-        Go to <a href="http://bit.ly/superhero-profile">bit.ly/superhero-profile</a> and remix using the content from your Word document.
+        ```<p> is perfect pairs with </p>!``` <!-- .element: class="delayed" -->
+      </script>
+    </section>
+
+<!--Slide 27-->
+    <section class="slide" data-toc data-markdown>
+      <script type="text/template">
+        # Today's Project
+
+        **We're creating a superhero profile for your role model of choice.**
+
+        See the example project here: [shaq-profile.glitch.me](https://shaq-profile.glitch.me)
+
+        See the source code here: [glitch.com/~shaq-profile](https://glitch.com/~shaq-profile) (Select *View Source* > *index.html*)
 
         <img src="framework/img/marvel.png" alt="Marvel super hero">
-
 
           ---
         <div class="dropdown">
@@ -447,14 +462,99 @@
       </script>
     </section>
 
-<!--Slide 27-->
+<!--Slide 28-->
+    <section class="slide" data-toc data-markdown>
+      <script type="text/template">
+        # First, we need to research:
+
+        **Who is your biggest role model?**
+
+        * What are they best known for?
+        * Where did they grow up?
+        * What was their childhood like?
+        * What obstacle(s) did they have to overcome?
+        * How did they do this?
+        * What is a memorable quote from this person/character?
+
+        `Write your answers down in a word/text document.`
+      </script>
+    </section>
+
+<!--Slide 29-->
+  <section class="slide" data-toc data-markdown>
+    <script type="text/template">
+      #Remix the Web
+
+      Go to [superhero-profiles.glitch.me/](https://superhero-profiles.glitch.me/) and remix using the content from your Word document.
+
+      ![remix on glitch](framework/img/sp1.png)
+
+    </script>
+  </section>
+
+<!--Slide 30-->
+  <section class="slide" data-toc data-markdown>
+    <script type="text/template">
+      # Optional: Create an Account
+
+      Go to https://glitch.com and select **Email Magic Link**. You will need to go to your inbox then enter the sign in code.
+
+      ![Sign in with email](framework/img/2-sign-in.png)
+      ![Verification email](framework/img/3-email-confirm.png)
+
+    </script>
+  </section>
+
+<!--Slide 31-->
+  <section class="slide" data-toc data-markdown>
+    <script type="text/template">
+      # Setting Up Glitch
+
+      1. In order to view changes as you go, select **Show** > **Next To The Code**.
+        ![Setting up glitch](framework/img/4-view-next-to-code.png)
+      1. Select **Format This File** to make the code easier to read.
+        ![Setting up glitch](framework/img/5-format-this-file.png)
+
+    </script>
+  </section>
+
+<!--Slide 32-->
+  <section class="slide" data-toc data-markdown>
+    <script type="text/template">
+      #Remix the Web
+
+      1. Change the heading
+      1. Change the paragraph text
+      1. Replace the images
+
+      ![remix on glitch](framework/img/sp3.png)
+
+      *See the [solution sheet](http://bit.ly/superhero-profiles-solution) for support.*
+
+    </script>
+  </section>
+
+<!--Slide 33-->
+    <section class="slide" data-toc data-markdown>
+      <script type="text/template">
+        # Learning Outcomes
+
+        * We remixed websites by editing HTML tags.<!-- .element: class="delayed" -->
+        * We changed the text on websites by editing headings and paragraphs.<!-- .element: class="delayed" -->
+        * We replaced images using image tags.<!-- .element: class="delayed" -->
+        * We learned that we have the power to change our experiences on the web!<!-- .element: class="delayed" -->
+
+      </script>
+    </section>
+
+<!--Slide 34-->
     <section class="slide title" data-markdown >
       <script type="text/template">
         #Break Time
       </script>
     </section>
 
-<!--Slide 28-->
+<!--Slide 35-->
     <section class="slide" data-markdown data-toc >
       <script type="text/template">
         #Exercise: Create your own website
@@ -470,16 +570,18 @@
       </script>
     </section>
 
-<!--Slide 29-->
+<!--Slide 36-->
     <section class="slide" data-markdown >
       <script type="text/template">
         #Exercise: Create your own website
 
-        <a href="https://thimbleprojects.org/teacherslearningcode/353483/">See the example project</a>
+        See the example "Tourism Yukon" project here: [tourism-yukon.glitch.me](https://tourism-yukon.glitch.me/)
 
-        Go to <a href="http://bit.ly/tlc-tourism-website">bit.ly/tlc-tourism-website </a>and <strong>remix</strong> using the content from your Word document.
+        Go to [tourism-website-starter.glitch.me](https://tourism-website-starter.glitch.me/) and remix using the content from your Word document.
 
         <img src="framework/img/tourism.png" alt="Tourism">
+
+        *See the [solution sheet](http://bit.ly/tourism-website-glitch-solution) for support.*
 
           ---
         <div class="dropdown">
@@ -491,7 +593,20 @@
       </script>
     </section>
 
-<!--Slide 30-->
+<!--Slide 37-->
+    <section class="slide" data-toc data-markdown>
+      <script type="text/template">
+        # Learning Outcomes
+
+        * We remixed websites by editing tags in HTML<!-- .element: class="delayed" -->
+        * We added text to our websites using paragraph and heading tags<!-- .element: class="delayed" -->
+        * We added images to our websites using image tags<!-- .element: class="delayed" -->
+        * We designed our websites using CSS<!-- .element: class="delayed" -->
+
+      </script>
+    </section>
+
+<!--Slide 38-->
     <section class="slide title" data-markdown data-toc>
       <script type="text/template">
         #Show and Tell <br>&amp; Discussion
@@ -501,7 +616,7 @@
       </script>
     </section>
 
-<!--Slide 32-->
+<!--Slide 39-->
     <section class="slide two-col-list" data-markdown data-toc >
       <script type="text/template">
         #Wrap Up
@@ -513,7 +628,7 @@
       </script>
     </section>
 
-<!--Slide 33-->
+<!--Slide 40-->
     <section class="slide" data-markdown>
       <script type="text/template">
         #Next steps
